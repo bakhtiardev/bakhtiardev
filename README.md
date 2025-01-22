@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ## 👋 Hi, I'm Bakhtiar Hussain  
+![Yellow and Blue Bold Geometric Software Developer LinkedIn Banner](https://github.com/user-attachments/assets/b6a0acfe-0951-4496-b30e-67dc29065b22)
 
 🌟 **Web & Mobile Developer | Master's Student (Visual Computing)**  
 📍 Pursuing a Master's in **Visual Computing** at Saarland University, with **3+ years of experience** in web and mobile development.  
@@ -32,10 +33,7 @@ Here are some ideas to get you started:
 
 ## 📫 Let's Connect  
 
-- **Email:** [your-email@example.com](mailto:your-email@example.com)  
-- **GitHub:** [github.com/bakhtiar-hussain](https://github.com/bakhtiar-hussain)  
-- **LinkedIn:** [linkedin.com/in/bakhtiar-hussain](https://linkedin.com/in/bakhtiar-hussain)  
+- **Email:** [bakhtiarhussain123@gmail.com](mailto:bakhtiarhussain123@gmail.com)  
+- **LinkedIn:** [linkedin.com/in/bakhtiarhussain](https://linkedin.com/in/bakhtiarhussain)
 
 ---
-
-Let me know if you'd like to add more badges or make any edits! 🚀
