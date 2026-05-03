@@ -40,11 +40,7 @@ Fullstack Engineer with over 3 years of industry experience in web and mobile de
 ---
 
 ## Activity Overview
-
-<p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bakhtiardev&theme=nord" height="150" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bakhtiardev&theme=nord" height="150" />
-</p>
+![GitHub Metrics](github-metrics.svg)
 ---
 
 ## Contact Information
